@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Hello!
+
+Master branch - 123456
+=======
+Hello World!
+>>>>>>> 58f0ad1d127a50fe8898c331e7b848cfaab5e28a
